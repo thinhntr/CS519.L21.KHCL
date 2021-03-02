@@ -3,7 +3,7 @@
 
 ## Members
 
-| Name                | Email    |
-| ------------------- | -------- |
-| Nguyen Truong Thinh | 18521447 |
-| Tran Hoang Son      | 18521351 |
+| Name                         | Email                  |
+| ---------------------------- | ---------------------- |
+| Nguyễn Trường Thịnh - Leader | 18521447@gm.uit.edu.vn |
+| Trần Hoàng Sơn               | 18521351@gm.uit.edu.vn |
