@@ -1,4 +1,5 @@
-#CS519.L21.KHCL
+# Week1
+
 1. Hình thức đánh giá:
 - Có điểm danh
 - Thuyết trình 5 - 10 slides, 3 - 5 trang proposal, 1 poster A0 giới thiệu tóm lược đề tài
